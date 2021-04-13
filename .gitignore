@@ -8,6 +8,7 @@
 # testing
 /coverage
 /src/tests 
+/src/setupTests.js
 
 # production
 /build
